@@ -29,3 +29,4 @@ El modelo reproduce el flujo de llegada y atención de 14 personas observadas en
 1. Instalar la dependencia requerida:
    ```bash
    pip install simpy
+   * **Python:** Versión 3.8 o superior (se utiliza `statistics.fmean`, disponible a partir de Python 3.8).
