@@ -22,8 +22,7 @@ El modelo reproduce el flujo de llegada y atención de 14 personas observadas en
 
 ## Contenido del Repositorio
 * `simulacion_cafeteria_a2.py`: Código fuente principal de la simulación
-* `resultados/tabla_comparativa.csv`: Resumen estadístico de los 4 escenarios
-* `resultados/resultados.json`: Datos completos generados por las réplicas
+* `resultados/tabla_comparativa`: Resumen estadístico de los 4 escenarios
 * `Programa Informático Tema 4 DE LA CRUZ OJEDA AARON.pdf`: Documento técnico con el análisis, gráficas y respuesta a la pregunta de investigación
 
 ## Requisitos y Ejecución
